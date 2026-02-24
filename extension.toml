@@ -1,5 +1,5 @@
-id = "matt-white"
-name = "Matt White"
+id = "matt-white-theme"
+name = "Matt White Theme"
 version = "0.0.1"
 schema_version = 1
 description = "A light theme for Zed."
