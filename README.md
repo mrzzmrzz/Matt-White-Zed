@@ -1,4 +1,4 @@
-## Matt White
+## Matt White Theme
 
 A clean and minimal light theme for the [Zed Editor](https://zed.dev).
 
